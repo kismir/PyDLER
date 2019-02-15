@@ -96,7 +96,7 @@ class OpenIdleInReplCommand(sublime_plugin.TextCommand):
             
             if len(wnd.views_in_group(0))==0:
                 wnd.focus_group(0)
-                file_path=sublime.packages_path()+r'\PyDLER\ascii.txt'
+                file_path=sublime.packages_path()+r'/PyDLER/ascii.txt'
                 ascii_v=wnd.open_file(file_path)
 
             wnd.focus_view(cur_view)
