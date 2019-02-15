@@ -1,0 +1,10 @@
+// ** DO NOT CHANGE THIS FILE ** //
+
+// copy it to your USER path and modify there //
+
+{
+    // arguments of your launching program
+    // write your python path here
+    "pypath":"",
+
+}
