@@ -1,0 +1,5 @@
+[
+    {"keys": ["f5"], "command": "open_file_in_repl"},
+    {"keys": ["ctrl+f5"], "command": "change_view"},
+    {"keys": ["f1"], "command": "exit_sublime_now"}
+]
